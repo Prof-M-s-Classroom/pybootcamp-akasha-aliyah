@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25a8240e-dda9-40c4-ac9a-783ea997d53b" name="Changes" comment="Submission folder and readme added">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Submissions/readme.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="25a8240e-dda9-40c4-ac9a-783ea997d53b" name="Changes" comment="completed hw assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +38,8 @@
   </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/profmanjupriya/PyBootcampHW.git",
-    "accountId": "e295edf7-faf7-43e7-a9fc-6b26e3f43991"
+    "url": "https://github.com/Prof-M-s-Classroom/pybootcamp-akasha-aliyah.git",
+    "accountId": "5dd5adbe-dedb-46a8-96c7-9ade20ad7e43"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -102,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738049600956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed hw assignment">
+      <option name="closed" value="true" />
+      <created>1738276398111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738276398111</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +125,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Skeleton code added" />
     <MESSAGE value="Submission folder and readme added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Submission folder and readme added" />
+    <MESSAGE value="completed hw assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed hw assignment" />
   </component>
 </project>
